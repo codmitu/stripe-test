@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stripe-test/static/css/main.1c01567b.chunk.css",
-    "main.js": "/stripe-test/static/js/main.47d423e8.chunk.js",
-    "main.js.map": "/stripe-test/static/js/main.47d423e8.chunk.js.map",
+    "main.js": "/stripe-test/static/js/main.48113901.chunk.js",
+    "main.js.map": "/stripe-test/static/js/main.48113901.chunk.js.map",
     "runtime-main.js": "/stripe-test/static/js/runtime-main.1cf3f5ed.js",
     "runtime-main.js.map": "/stripe-test/static/js/runtime-main.1cf3f5ed.js.map",
     "static/js/2.a0e45f01.chunk.js": "/stripe-test/static/js/2.a0e45f01.chunk.js",
@@ -62,6 +62,6 @@
     "static/js/runtime-main.1cf3f5ed.js",
     "static/js/2.a0e45f01.chunk.js",
     "static/css/main.1c01567b.chunk.css",
-    "static/js/main.47d423e8.chunk.js"
+    "static/js/main.48113901.chunk.js"
   ]
 }
