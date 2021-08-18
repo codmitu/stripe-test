@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/stripe-test/static/css/main.1c01567b.chunk.css",
-    "main.js": "/stripe-test/static/js/main.235b8348.chunk.js",
-    "main.js.map": "/stripe-test/static/js/main.235b8348.chunk.js.map",
+    "main.js": "/stripe-test/static/js/main.86534895.chunk.js",
+    "main.js.map": "/stripe-test/static/js/main.86534895.chunk.js.map",
     "runtime-main.js": "/stripe-test/static/js/runtime-main.1cf3f5ed.js",
     "runtime-main.js.map": "/stripe-test/static/js/runtime-main.1cf3f5ed.js.map",
-    "static/js/2.7c739010.chunk.js": "/stripe-test/static/js/2.7c739010.chunk.js",
-    "static/js/2.7c739010.chunk.js.map": "/stripe-test/static/js/2.7c739010.chunk.js.map",
+    "static/js/2.a0e45f01.chunk.js": "/stripe-test/static/js/2.a0e45f01.chunk.js",
+    "static/js/2.a0e45f01.chunk.js.map": "/stripe-test/static/js/2.a0e45f01.chunk.js.map",
     "index.html": "/stripe-test/index.html",
     "static/css/main.1c01567b.chunk.css.map": "/stripe-test/static/css/main.1c01567b.chunk.css.map",
-    "static/js/2.7c739010.chunk.js.LICENSE.txt": "/stripe-test/static/js/2.7c739010.chunk.js.LICENSE.txt",
+    "static/js/2.a0e45f01.chunk.js.LICENSE.txt": "/stripe-test/static/js/2.a0e45f01.chunk.js.LICENSE.txt",
     "static/media/avatar1.9ac06034.jpg": "/stripe-test/static/media/avatar1.9ac06034.jpg",
     "static/media/avatar2.4e923c45.jpg": "/stripe-test/static/media/avatar2.4e923c45.jpg",
     "static/media/avatar3.b645a6b4.jpg": "/stripe-test/static/media/avatar3.b645a6b4.jpg",
@@ -60,8 +60,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1cf3f5ed.js",
-    "static/js/2.7c739010.chunk.js",
+    "static/js/2.a0e45f01.chunk.js",
     "static/css/main.1c01567b.chunk.css",
-    "static/js/main.235b8348.chunk.js"
+    "static/js/main.86534895.chunk.js"
   ]
 }
